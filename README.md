@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 salut les dev et dave
@@ -14,3 +15,8 @@ je rajout
 On en a #gros
 de tous ces conflits
 
+
+:
+
+alut les dev et dave
+>
